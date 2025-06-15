@@ -24,8 +24,7 @@ Each folder is a **self-contained project**, with:
 
 | Project | Description |
 |--------|-------------|
-| `01-community-reimagined` | Reimagining X Communities by solving user pain points from Reddit, FB, etc. |
-| `02-procurement360-unassigned` | Cleaning and categorizing "Unassigned" parts in procurement data |
+| `01-procurement360-unassigned` | Cleaning and categorizing "Unassigned" parts in procurement data |
 | `03-customer-churn-simplified` | Predicting churn and designing retention strategy like a product manager |
 
 *(More to come...)*
